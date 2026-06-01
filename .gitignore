@@ -1,0 +1,16 @@
+.env
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+uploads/
+/static/
+PACK*/
+CACHE/
+DOKUMENTASI*/
+.vscode/
+.idea/
+.DS_Store
+*.log
